@@ -1,0 +1,536 @@
+libspotify trace from 12.1.51.g86c92b43 Release Linux-armv6 
+
+< sp_session_create() = 0
+> sp_session_login(0x1d6d8a0 'jakemauer' '<hidden>' 0) on 0x40090210
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 0
+> sp_session_process_events(0x1d6d8a0 0x1bce288) on 0x40090210
+< sp_session_process_events() = 299367
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x1cd0a48) on 0x40090210
+< sp_session_process_events() = 299347
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x1ccf0a0) on 0x40090210
+< sp_session_process_events() = 299332
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x1c74b90) on 0x40090210
+< sp_session_process_events() = 299321
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x1c6ac98) on 0x40090210
+< sp_session_process_events() = 299308
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x1d6f5e0) on 0x40090210
+< sp_session_process_events() = 299296
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x1bce6d0) on 0x40090210
+< sp_session_process_events() = 299285
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x1cd0280) on 0x40090210
+< sp_session_process_events() = 299273
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x1d70520) on 0x40090210
+< sp_session_process_events() = 299262
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x1d705f8) on 0x40090210
+< sp_session_process_events() = 299250
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x1d704d0) on 0x40090210
+< sp_session_process_events() = 299228
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x1d75920) on 0x40090210
+< sp_session_process_events() = 299216
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x1d75950) on 0x40090210
+< sp_session_process_events() = 299203
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x1d75980) on 0x40090210
+< sp_session_process_events() = 299191
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x1d72290) on 0x40090210
+< sp_session_process_events() = 299179
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x1d722c0) on 0x40090210
+< sp_session_process_events() = 299167
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x1d722f0) on 0x40090210
+< sp_session_process_events() = 299155
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x1d6f680) on 0x40090210
+< sp_session_process_events() = 299143
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x1d6f6b0) on 0x40090210
+< sp_session_process_events() = 299132
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x1d6f6e0) on 0x40090210
+< sp_session_process_events() = 299120
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x1d6f710) on 0x40090210
+< sp_session_process_events() = 299108
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x1d6f740) on 0x40090210
+< sp_session_process_events() = 299095
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x40c00488) on 0x40090210
+< sp_session_process_events() = 299084
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x40c004b8) on 0x40090210
+< sp_session_process_events() = 299072
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x40c004e8) on 0x40090210
+< sp_session_process_events() = 299060
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x40c00518) on 0x40090210
+< sp_session_process_events() = 299047
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x40c00548) on 0x40090210
+< sp_session_process_events() = 299035
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x40c00578) on 0x40090210
+< sp_session_process_events() = 299023
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x40c005a8) on 0x40090210
+< sp_session_process_events() = 299011
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x40c005d8) on 0x40090210
+< sp_session_process_events() = 298998
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x40c00608) on 0x40090210
+< sp_session_process_events() = 298986
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x40c00638) on 0x40090210
+< sp_session_process_events() = 298975
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x40c00668) on 0x40090210
+< sp_session_process_events() = 298964
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x40c00698) on 0x40090210
+< sp_session_process_events() = 298952
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x40c006c8) on 0x40090210
+< sp_session_process_events() = 298941
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x40c006f8) on 0x40090210
+< sp_session_process_events() = 298929
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x40c00728) on 0x40090210
+< sp_session_process_events() = 298918
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x40c00758) on 0x40090210
+< sp_session_process_events() = 298907
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x40c00788) on 0x40090210
+< sp_session_process_events() = 298895
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x40c007b8) on 0x40090210
+< sp_session_process_events() = 298882
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x40c007e8) on 0x40090210
+< sp_session_process_events() = 298868
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x40c00818) on 0x40090210
+< sp_session_process_events() = 298856
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x40c00848) on 0x40090210
+< sp_session_process_events() = 298844
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x40c00878) on 0x40090210
+< sp_session_process_events() = 298832
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x40c008a8) on 0x40090210
+< sp_session_process_events() = 298820
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x40c008d8) on 0x40090210
+< sp_session_process_events() = 298809
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x40c00908) on 0x40090210
+< sp_session_process_events() = 298798
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x40c00938) on 0x40090210
+< sp_session_process_events() = 298785
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x40c00968) on 0x40090210
+< sp_session_process_events() = 298774
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x40c00998) on 0x40090210
+< sp_session_process_events() = 298763
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x40c009c8) on 0x40090210
+< sp_session_process_events() = 298751
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x40c009f8) on 0x40090210
+< sp_session_process_events() = 298739
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x40c00a28) on 0x40090210
+< sp_session_process_events() = 298728
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x40c00a58) on 0x40090210
+< sp_session_process_events() = 298716
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x40c00a88) on 0x40090210
+< sp_session_process_events() = 298704
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x40c00ab8) on 0x40090210
+< sp_session_process_events() = 298693
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x40c00ae8) on 0x40090210
+< sp_session_process_events() = 298682
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x40c00b18) on 0x40090210
+< sp_session_process_events() = 298671
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 4
+> sp_session_process_events(0x1d6d8a0 0x40c00b48) on 0x40090210
+< sp_session_process_events() = 2016
+> sp_session_connectionstate(0x1d6d8a0) on 0x40090210
+< sp_session_connectionstate() = 1
+> sp_session_playlistcontainer(0x1d6d8a0) on 0x40090210
+< sp_session_playlistcontainer() = 0x1c326f8
+> sp_playlistcontainer_is_loaded(0x1c326f8) on 0x40090210
+< sp_playlistcontainer_is_loaded() = 0
+> sp_session_process_events(0x1d6d8a0 0x1d72168) on 0x40090210
+< sp_session_process_events() = 955
+> sp_playlistcontainer_is_loaded(0x1c326f8) on 0x40090210
+< sp_playlistcontainer_is_loaded() = 0
+> sp_session_process_events(0x1d6d8a0 0x1bd6dd0) on 0x40090210
+< sp_session_process_events() = 943
+> sp_playlistcontainer_is_loaded(0x1c326f8) on 0x40090210
+< sp_playlistcontainer_is_loaded() = 0
+> sp_session_process_events(0x1d6d8a0 0x1c54de8) on 0x40090210
+< sp_session_process_events() = 931
+> sp_playlistcontainer_is_loaded(0x1c326f8) on 0x40090210
+< sp_playlistcontainer_is_loaded() = 0
+> sp_session_process_events(0x1d6d8a0 0x1c54e18) on 0x40090210
+< sp_session_process_events() = 919
+> sp_playlistcontainer_is_loaded(0x1c326f8) on 0x40090210
+< sp_playlistcontainer_is_loaded() = 0
+> sp_session_process_events(0x1d6d8a0 0x1c54e48) on 0x40090210
+< sp_session_process_events() = 907
+> sp_playlistcontainer_is_loaded(0x1c326f8) on 0x40090210
+< sp_playlistcontainer_is_loaded() = 0
+> sp_session_process_events(0x1d6d8a0 0x1c54e78) on 0x40090210
+< sp_session_process_events() = 896
+> sp_playlistcontainer_is_loaded(0x1c326f8) on 0x40090210
+< sp_playlistcontainer_is_loaded() = 0
+> sp_session_process_events(0x1d6d8a0 0x1c54ea8) on 0x40090210
+< sp_session_process_events() = 885
+> sp_playlistcontainer_is_loaded(0x1c326f8) on 0x40090210
+< sp_playlistcontainer_is_loaded() = 0
+> sp_session_process_events(0x1d6d8a0 0x1c54ed8) on 0x40090210
+< sp_session_process_events() = 872
+> sp_playlistcontainer_is_loaded(0x1c326f8) on 0x40090210
+< sp_playlistcontainer_is_loaded() = 0
+> sp_session_process_events(0x1d6d8a0 0x1c54f08) on 0x40090210
+< sp_session_process_events() = 861
+> sp_playlistcontainer_is_loaded(0x1c326f8) on 0x40090210
+< sp_playlistcontainer_is_loaded() = 0
+> sp_session_process_events(0x1d6d8a0 0x1c54f38) on 0x40090210
+< sp_session_process_events() = 850
+> sp_playlistcontainer_is_loaded(0x1c326f8) on 0x40090210
+< sp_playlistcontainer_is_loaded() = 0
+> sp_session_process_events(0x1d6d8a0 0x1c54f68) on 0x40090210
+< sp_session_process_events() = 838
+> sp_playlistcontainer_is_loaded(0x1c326f8) on 0x40090210
+< sp_playlistcontainer_is_loaded() = 0
+> sp_session_process_events(0x1d6d8a0 0x1c54f98) on 0x40090210
+< sp_session_process_events() = 827
+> sp_playlistcontainer_is_loaded(0x1c326f8) on 0x40090210
+< sp_playlistcontainer_is_loaded() = 0
+> sp_session_process_events(0x1d6d8a0 0x1c54fc8) on 0x40090210
+< sp_session_process_events() = 815
+> sp_playlistcontainer_is_loaded(0x1c326f8) on 0x40090210
+< sp_playlistcontainer_is_loaded() = 0
+> sp_session_process_events(0x1d6d8a0 0x1c54ff8) on 0x40090210
+< sp_session_process_events() = 804
+> sp_playlistcontainer_is_loaded(0x1c326f8) on 0x40090210
+< sp_playlistcontainer_is_loaded() = 0
+> sp_session_process_events(0x1d6d8a0 0x1c55028) on 0x40090210
+< sp_session_process_events() = 793
+> sp_playlistcontainer_is_loaded(0x1c326f8) on 0x40090210
+< sp_playlistcontainer_is_loaded() = 0
+> sp_session_process_events(0x1d6d8a0 0x1d6f490) on 0x40090210
+< sp_session_process_events() = 780
+> sp_playlistcontainer_is_loaded(0x1c326f8) on 0x40090210
+< sp_playlistcontainer_is_loaded() = 0
+> sp_session_process_events(0x1d6d8a0 0x1bcd5c0) on 0x40090210
+< sp_session_process_events() = 768
+> sp_playlistcontainer_is_loaded(0x1c326f8) on 0x40090210
+< sp_playlistcontainer_is_loaded() = 0
+> sp_session_process_events(0x1d6d8a0 0x1d74d20) on 0x40090210
+< sp_session_process_events() = 756
+> sp_playlistcontainer_is_loaded(0x1c326f8) on 0x40090210
+< sp_playlistcontainer_is_loaded() = 0
+> sp_session_process_events(0x1d6d8a0 0x1d6fff8) on 0x40090210
+< sp_session_process_events() = 743
+> sp_playlistcontainer_is_loaded(0x1c326f8) on 0x40090210
+< sp_playlistcontainer_is_loaded() = 0
+> sp_session_process_events(0x1d6d8a0 0x1d741f0) on 0x40090210
+< sp_session_process_events() = 732
+> sp_playlistcontainer_is_loaded(0x1c326f8) on 0x40090210
+< sp_playlistcontainer_is_loaded() = 0
+> sp_session_process_events(0x1d6d8a0 0x1d74bf0) on 0x40090210
+< sp_session_process_events() = 721
+> sp_playlistcontainer_is_loaded(0x1c326f8) on 0x40090210
+< sp_playlistcontainer_is_loaded() = 0
+> sp_session_process_events(0x1d6d8a0 0x1d74ca0) on 0x40090210
+< sp_session_process_events() = 708
+> sp_playlistcontainer_is_loaded(0x1c326f8) on 0x40090210
+< sp_playlistcontainer_is_loaded() = 0
+> sp_session_process_events(0x1d6d8a0 0x1d74aa0) on 0x40090210
+< sp_session_process_events() = 697
+> sp_playlistcontainer_is_loaded(0x1c326f8) on 0x40090210
+< sp_playlistcontainer_is_loaded() = 0
+> sp_session_process_events(0x1d6d8a0 0x1d72f30) on 0x40090210
+< sp_session_process_events() = 679
+> sp_playlistcontainer_is_loaded(0x1c326f8) on 0x40090210
+< sp_playlistcontainer_is_loaded() = 0
+> sp_session_process_events(0x1d6d8a0 0x1d72a68) on 0x40090210
+< sp_session_process_events() = 1
+> sp_playlistcontainer_is_loaded(0x1c326f8) on 0x40090210
+< sp_playlistcontainer_is_loaded() = 0
+> sp_session_process_events(0x1d6d8a0 0x1d710e8) on 0x40090210
+< sp_session_process_events() = 632
+> sp_playlistcontainer_is_loaded(0x1c326f8) on 0x40090210
+< sp_playlistcontainer_is_loaded() = 0
+> sp_session_process_events(0x1d6d8a0 0x1d73ff8) on 0x40090210
+< sp_session_process_events() = 2
+> sp_playlistcontainer_is_loaded(0x1c326f8) on 0x40090210
+< sp_playlistcontainer_is_loaded() = 0
+> sp_session_process_events(0x1d6d8a0 0x1d75ff8) on 0x40090210
+> pchPlaylistWillBeAdded(0x1d751f0 2 0x1d54f80 0) on 0x40090210
+< pchPlaylistWillBeAdded() = 
+> pchPlaylistAdded(0x1d751f0 2 0x1d54f80 0) on 0x40090210
+< pchPlaylistAdded() = 
+> pchPlaylistWillBeAdded(0x1d751f0 2 0x1d594c0 1) on 0x40090210
+< pchPlaylistWillBeAdded() = 
+> pchPlaylistAdded(0x1d751f0 2 0x1d594c0 1) on 0x40090210
+< pchPlaylistAdded() = 
+> pchPlaylistWillBeAdded(0x1d751f0 2 0x1d5ee40 2) on 0x40090210
+< pchPlaylistWillBeAdded() = 
+> pchPlaylistAdded(0x1d751f0 2 0x1d5ee40 2) on 0x40090210
+< pchPlaylistAdded() = 
+> pchPlaylistWillBeAdded(0x1d751f0 2 0x1d5f008 3) on 0x40090210
+< pchPlaylistWillBeAdded() = 
+> pchPlaylistAdded(0x1d751f0 2 0x1d5f008 3) on 0x40090210
+< pchPlaylistAdded() = 
+> pchPlaylistWillBeAdded(0x1d751f0 2 0x1d5f168 4) on 0x40090210
+< pchPlaylistWillBeAdded() = 
+> pchPlaylistAdded(0x1d751f0 2 0x1d5f168 4) on 0x40090210
+< pchPlaylistAdded() = 
+> pchPlaylistWillBeAdded(0x1d751f0 2 0x1d5f2f8 5) on 0x40090210
+< pchPlaylistWillBeAdded() = 
+> pchPlaylistAdded(0x1d751f0 2 0x1d5f2f8 5) on 0x40090210
+< pchPlaylistAdded() = 
+> pchPlaylistWillBeAdded(0x1d751f0 2 0x1d5f458 6) on 0x40090210
+< pchPlaylistWillBeAdded() = 
+> pchPlaylistAdded(0x1d751f0 2 0x1d5f458 6) on 0x40090210
+< pchPlaylistAdded() = 
+> pchPlaylistWillBeAdded(0x1d751f0 2 0x1d5f648 7) on 0x40090210
+< pchPlaylistWillBeAdded() = 
+> pchPlaylistAdded(0x1d751f0 2 0x1d5f648 7) on 0x40090210
+< pchPlaylistAdded() = 
+> pchPlaylistWillBeAdded(0x1d751f0 2 0x1d5f7a8 8) on 0x40090210
+< pchPlaylistWillBeAdded() = 
+> pchPlaylistAdded(0x1d751f0 2 0x1d5f7a8 8) on 0x40090210
+< pchPlaylistAdded() = 
+> pchPlaylistWillBeAdded(0x1d751f0 2 0x1d5f908 9) on 0x40090210
+< pchPlaylistWillBeAdded() = 
+> pchPlaylistAdded(0x1d751f0 2 0x1d5f908 9) on 0x40090210
+< pchPlaylistAdded() = 
+> pchPlaylistWillBeAdded(0x1d751f0 2 0x1d5fa68 10) on 0x40090210
+< pchPlaylistWillBeAdded() = 
+> pchPlaylistAdded(0x1d751f0 2 0x1d5fa68 10) on 0x40090210
+< pchPlaylistAdded() = 
+> pchPlaylistWillBeAdded(0x1d751f0 2 0x1d5fce8 11) on 0x40090210
+< pchPlaylistWillBeAdded() = 
+> pchPlaylistAdded(0x1d751f0 2 0x1d5fce8 11) on 0x40090210
+< pchPlaylistAdded() = 
+> pchPlaylistWillBeAdded(0x1d751f0 2 0x1d5fe48 12) on 0x40090210
+< pchPlaylistWillBeAdded() = 
+> pchPlaylistAdded(0x1d751f0 2 0x1d5fe48 12) on 0x40090210
+< pchPlaylistAdded() = 
+> pchPlaylistWillBeAdded(0x1d751f0 2 0x1d5ffa8 13) on 0x40090210
+< pchPlaylistWillBeAdded() = 
+> pchPlaylistAdded(0x1d751f0 2 0x1d5ffa8 13) on 0x40090210
+< pchPlaylistAdded() = 
+> pchPlaylistWillBeAdded(0x1d751f0 2 0x1d60108 14) on 0x40090210
+< pchPlaylistWillBeAdded() = 
+> pchPlaylistAdded(0x1d751f0 2 0x1d60108 14) on 0x40090210
+< pchPlaylistAdded() = 
+> pchPlaylistWillBeAdded(0x1d751f0 2 0x1d60268 15) on 0x40090210
+< pchPlaylistWillBeAdded() = 
+> pchPlaylistAdded(0x1d751f0 2 0x1d60268 15) on 0x40090210
+< pchPlaylistAdded() = 
+> pchPlaylistWillBeAdded(0x1d751f0 2 0x1d603c8 16) on 0x40090210
+< pchPlaylistWillBeAdded() = 
+> pchPlaylistAdded(0x1d751f0 2 0x1d603c8 16) on 0x40090210
+< pchPlaylistAdded() = 
+> pchPlaylistWillBeAdded(0x1d751f0 2 0x1d683b8 17) on 0x40090210
+< pchPlaylistWillBeAdded() = 
+> pchPlaylistAdded(0x1d751f0 2 0x1d683b8 17) on 0x40090210
+< pchPlaylistAdded() = 
+> pchPlaylistWillBeAdded(0x1d751f0 2 0x1d5fbc8 18) on 0x40090210
+< pchPlaylistWillBeAdded() = 
+> pchPlaylistAdded(0x1d751f0 2 0x1d5fbc8 18) on 0x40090210
+< pchPlaylistAdded() = 
+> pchPlaylistWillBeAdded(0x1d751f0 2 0x1d60770 19) on 0x40090210
+< pchPlaylistWillBeAdded() = 
+> pchPlaylistAdded(0x1d751f0 2 0x1d60770 19) on 0x40090210
+< pchPlaylistAdded() = 
+> pchPlaylistWillBeAdded(0x1d751f0 2 0x1d63290 20) on 0x40090210
+< pchPlaylistWillBeAdded() = 
+> pchPlaylistAdded(0x1d751f0 2 0x1d63290 20) on 0x40090210
+< pchPlaylistAdded() = 
+> pchPlaylistWillBeAdded(0x1d751f0 2 0x1d644f8 21) on 0x40090210
+< pchPlaylistWillBeAdded() = 
+> pchPlaylistAdded(0x1d751f0 2 0x1d644f8 21) on 0x40090210
+< pchPlaylistAdded() = 
+> pchPlaylistWillBeAdded(0x1d751f0 2 0x1d64658 22) on 0x40090210
+< pchPlaylistWillBeAdded() = 
+> pchPlaylistAdded(0x1d751f0 2 0x1d64658 22) on 0x40090210
+< pchPlaylistAdded() = 
+> pchPlaylistWillBeAdded(0x1d751f0 2 0x1d647b8 23) on 0x40090210
+< pchPlaylistWillBeAdded() = 
+> pchPlaylistAdded(0x1d751f0 2 0x1d647b8 23) on 0x40090210
+< pchPlaylistAdded() = 
+> pchPlaylistWillBeAdded(0x1d751f0 2 0x1d64930 24) on 0x40090210
+< pchPlaylistWillBeAdded() = 
+> pchPlaylistAdded(0x1d751f0 2 0x1d64930 24) on 0x40090210
+< pchPlaylistAdded() = 
+> pchPlaylistWillBeAdded(0x1d751f0 2 0x1d60540 25) on 0x40090210
+< pchPlaylistWillBeAdded() = 
+> pchPlaylistAdded(0x1d751f0 2 0x1d60540 25) on 0x40090210
+< pchPlaylistAdded() = 
+> pchPlaylistWillBeAdded(0x1d751f0 2 0x1d64d90 26) on 0x40090210
+< pchPlaylistWillBeAdded() = 
+> pchPlaylistAdded(0x1d751f0 2 0x1d64d90 26) on 0x40090210
+< pchPlaylistAdded() = 
+> pchPlaylistWillBeAdded(0x1d751f0 2 0x1d729a0 27) on 0x40090210
+< pchPlaylistWillBeAdded() = 
+> pchPlaylistAdded(0x1d751f0 2 0x1d729a0 27) on 0x40090210
+< pchPlaylistAdded() = 
+> pchPlaylistWillBeAdded(0x1d751f0 2 0x1d64ef0 28) on 0x40090210
+< pchPlaylistWillBeAdded() = 
+> pchPlaylistAdded(0x1d751f0 2 0x1d64ef0 28) on 0x40090210
+< pchPlaylistAdded() = 
+> pchPlaylistWillBeAdded(0x1d751f0 2 0x1d65050 29) on 0x40090210
+< pchPlaylistWillBeAdded() = 
+> pchPlaylistAdded(0x1d751f0 2 0x1d65050 29) on 0x40090210
+< pchPlaylistAdded() = 
+> pchPlaylistWillBeAdded(0x1d751f0 2 0x1d651b0 30) on 0x40090210
+< pchPlaylistWillBeAdded() = 
+> pchPlaylistAdded(0x1d751f0 2 0x1d651b0 30) on 0x40090210
+< pchPlaylistAdded() = 
+> pchPlaylistWillBeAdded(0x1d751f0 2 0x1d48428 31) on 0x40090210
+< pchPlaylistWillBeAdded() = 
+> pchPlaylistAdded(0x1d751f0 2 0x1d48428 31) on 0x40090210
+< pchPlaylistAdded() = 
+> pchPlaylistWillBeAdded(0x1d751f0 2 0x1d485a0 32) on 0x40090210
+< pchPlaylistWillBeAdded() = 
+> pchPlaylistAdded(0x1d751f0 2 0x1d485a0 32) on 0x40090210
+< pchPlaylistAdded() = 
+> pchPlaylistWillBeAdded(0x1d751f0 2 0x1d690a0 33) on 0x40090210
+< pchPlaylistWillBeAdded() = 
+> pchPlaylistAdded(0x1d751f0 2 0x1d690a0 33) on 0x40090210
+< pchPlaylistAdded() = 
+> pchPlaylistWillBeAdded(0x1d751f0 2 0x1d55dc8 34) on 0x40090210
+< pchPlaylistWillBeAdded() = 
+> pchPlaylistAdded(0x1d751f0 2 0x1d55dc8 34) on 0x40090210
+< pchPlaylistAdded() = 
+> pchPlaylistWillBeAdded(0x1d751f0 2 0x1d55bd0 35) on 0x40090210
+< pchPlaylistWillBeAdded() = 
+> pchPlaylistAdded(0x1d751f0 2 0x1d55bd0 35) on 0x40090210
+< pchPlaylistAdded() = 
+> pchPlaylistWillBeAdded(0x1d751f0 2 0x1d48c28 36) on 0x40090210
+< pchPlaylistWillBeAdded() = 
+> pchPlaylistAdded(0x1d751f0 2 0x1d48c28 36) on 0x40090210
+< pchPlaylistAdded() = 
+> pchPlaylistWillBeAdded(0x1d751f0 2 0x1d55a80 37) on 0x40090210
+< pchPlaylistWillBeAdded() = 
+> pchPlaylistAdded(0x1d751f0 2 0x1d55a80 37) on 0x40090210
+< pchPlaylistAdded() = 
+> pchPlaylistWillBeAdded(0x1d751f0 2 0x1d56a30 38) on 0x40090210
+< pchPlaylistWillBeAdded() = 
+> pchPlaylistAdded(0x1d751f0 2 0x1d56a30 38) on 0x40090210
+< pchPlaylistAdded() = 
+> pchPlaylistWillBeAdded(0x1d751f0 2 0x1d64aa8 39) on 0x40090210
+< pchPlaylistWillBeAdded() = 
+> pchPlaylistAdded(0x1d751f0 2 0x1d64aa8 39) on 0x40090210
+< pchPlaylistAdded() = 
+> pchPlaylistWillBeAdded(0x1d751f0 2 0x1d64c20 40) on 0x40090210
+< pchPlaylistWillBeAdded() = 
+> pchPlaylistAdded(0x1d751f0 2 0x1d64c20 40) on 0x40090210
+< pchPlaylistAdded() = 
+> pchPlaylistWillBeAdded(0x1d751f0 2 0x1d492a0 41) on 0x40090210
+< pchPlaylistWillBeAdded() = 
+> pchPlaylistAdded(0x1d751f0 2 0x1d492a0 41) on 0x40090210
+< pchPlaylistAdded() = 
+> pchPlaylistWillBeAdded(0x1d751f0 2 0x1d49400 42) on 0x40090210
+< pchPlaylistWillBeAdded() = 
+> pchPlaylistAdded(0x1d751f0 2 0x1d49400 42) on 0x40090210
+< pchPlaylistAdded() = 
+> pchPlaylistWillBeAdded(0x1d751f0 2 0x1d49560 43) on 0x40090210
+< pchPlaylistWillBeAdded() = 
+> pchPlaylistAdded(0x1d751f0 2 0x1d49560 43) on 0x40090210
+< pchPlaylistAdded() = 
+> pchLoaded(0x1d751f0) on 0x40090210
+< pchLoaded() = 
+< sp_session_process_events() = 600
+> sp_playlistcontainer_is_loaded(0x1c326f8) on 0x40090210
+< sp_playlistcontainer_is_loaded() = 1
